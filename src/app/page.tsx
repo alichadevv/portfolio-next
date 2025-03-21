@@ -10,8 +10,6 @@ export default function Home() {
       <HomeComponent />
       <About />
       <Skill />
-      <Certificate />
-      <Project />
     </div>
   );
 }
